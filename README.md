@@ -1,5 +1,4 @@
-# Simple-LED-Torch-with-Tactile-Switch
-A beginner-friendly KiCad PCB project for a basic LED torch powered by a coin cell and controlled using a tactile switch.
+
 # Simple LED Torch PCB
 
 This is a basic PCB project designed using KiCad for a simple LED torch. It is powered by a 3V coin cell (CR2032) and uses a tactile push-button to control an LED through a current-limiting resistor.
